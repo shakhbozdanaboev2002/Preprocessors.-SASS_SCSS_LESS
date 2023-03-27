@@ -1,0 +1,44 @@
+/* line 8, ../../../Desktop/+++/src/sass/style.sass */
+h1 {
+  color: blue;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 250px;
+  background-color: red;
+}
+
+/* line 12, ../../../Desktop/+++/src/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 14, ../../../Desktop/+++/src/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 16, ../../../Desktop/+++/src/sass/style.sass */
+.block h3 {
+  color: blue;
+}
+
+/* line 18, ../../../Desktop/+++/src/sass/style.sass */
+.block_color {
+  background-color: #fff;
+}
+
+/* line 20, ../../../Desktop/+++/src/sass/style.sass */
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 250px;
+  background-color: red;
+}
+
+/* line 22, ../../../Desktop/+++/src/sass/style.sass */
+.block .block_color {
+  color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */
